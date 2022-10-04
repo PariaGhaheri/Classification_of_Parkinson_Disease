@@ -23,3 +23,8 @@ In this dataset, characteristics are gathered by examining the sound recordings 
 * Detrended fluctuation analysis (DFA).
 * Pitch period entropy (PPE).
 * Glottal-to-noise excitation ratio (GNE).
+
+## Contact me
+If you have any questions, do not hesitate to reach me via [Linkedin](https://www.linkedin.com/in/paria-ghaheri-534a44206/) or email: paria.ghaherii@gmail.com
+
+Thank you so much for your attention.
